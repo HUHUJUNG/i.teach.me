@@ -1,0 +1,11 @@
+Document for git basic tutorial
+
+git --version
+
+git config --global user.name
+git config --global user.email
+
+cd directory
+git add file
+git commit -m "message[file]"
+git push
